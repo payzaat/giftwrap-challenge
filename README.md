@@ -5,7 +5,7 @@ You will have a pattern that we need to repeat one more time for generating the 
 
 ## Example
 
-####Pattern example:
+#### Pattern example:
 ![img.png](img.png)
 
 #### Generated file example output:
