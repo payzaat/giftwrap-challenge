@@ -1,4 +1,4 @@
-# Gift wrap Challenge
+# Gift Wrap Challenge
 
 Given a gift box with size [width: 15 cm, height: 10 cm, length: 5 cm] and we want to print a wrapping paper to wrap this box.
 You will have a pattern that we need to repeat one more time for generating the wrapping paper.
